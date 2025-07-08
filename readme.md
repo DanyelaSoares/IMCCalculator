@@ -2,7 +2,7 @@
 
 Este é um projeto simples em C# que calcula o IMC (Índice de Massa Corporal) de uma pessoa a partir do peso e da altura informados pelo usuário.
 
-## 💡 Funcionalidades
+# 💡 Funcionalidades
 
 - Menu interativo no terminal
 - Cálculo do IMC: `IMC = peso / (altura * altura)`
@@ -14,61 +14,44 @@ Este é um projeto simples em C# que calcula o IMC (Índice de Massa Corporal) d
 - Validação de entrada (peso e altura devem ser positivos)
 - Loop de execução para múltiplos cálculos
 
-## 🚀 Como executar
+# 🚀 Como executar
 
 1. Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/en-us/download) instalado.
 2. Clone este repositório:
    ```bash
    git clone https://github.com/DanyelaSoares/IMCCalculator.git
-   ```
 
-## Acesse o projeto
+3. Acesse a pasta do projeto:
+   ```bash
+   cd IMCCalculator
+    ```
 
-````bash
-cd IMCCalculator
+4. Execute o projeto:
+   ```bash
+   dotnet run
+    ```
 
-## Execute o projeto
-```bash
-dotnet run
+# 📚 Tecnologias utilizadas
 
-# Tecnologias utilizadas
 C#
 .NET SDK
 Console App
-````
 
-🧠 Aprendizados
+##🧠 Aprendizados
 Este projeto foi feito para praticar lógica de programação e os fundamentos da linguagem C#, incluindo:
 
 Entrada e saída no console
-
 Condicionais e estruturas de repetição
-
 Métodos/funções
-
 Validação de dados
 
-👩‍💻 Autora
+# 📚 Autora
+
 Feito com 💙 por Danyela Soares
 
-📄 Licença
+# 📄 Licença
+
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
 
-Salve e feche o arquivo.
-
----
-
-### ✅ 2. Adicionar e fazer commit
-
-No terminal:
-
-````bash
-git add README.md
-git commit -m "Adiciona README.md com descrição do projeto"
 
 
-✅ 3. Enviar para o GitHub
-```bash
-
-git push
-````
